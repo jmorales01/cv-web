@@ -1,66 +1,56 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "José L. Morales",
+    "label": "Full Stack Developer con más de 2 años de experiencia desarrollando sistemas SAS",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "joseluismoralesvega24@gmail.com",
+    "phone": "+51 982310245",
+    "url": "https://moraless.me/",
+    "summary": "+2 años desarrollando soluciones con la programación. Actualmente soy desarrollador full-stack. Vivo en Lima, Perú. Estuve en diferentes proyectos: desde acelerar el desarrollo de Empresas del rubro, hasta competiciones de programación. Me gusta estar constantemente creando nuevos retos y mejorando mis habilidades.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "15058",
+      "city": "Lima",
+      "countryCode": "PE",
+      "region": "Peru"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Jose L. Morales Vega",
+        "url": "https://linkedin.com/in/josemoralesv24"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Jose_Morales24",
+        "url": "https://x.com/JoseLuisMV24"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "jmorales01",
+        "url": "https://github.com/jmorales01"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "GoFacturas",
+      "position": "Desarrollador Full Stack",
+      "url": "http://gofacturas.com/",
+      "startDate": "2023-04-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollando modulos de front-end y back-end, para la creacion un sistema de gestión de inventario, facturacion y ventas (serivicios SAS). Trabajando con conceptos como API REST, Logica de Negocio.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "EpicGroup",
+      "position": "Mentor Educativo",
+      "url": "https://www.epicgrouplab.com",
+      "startDate": "2022-11-01",
+      "endDate": "2023-07-01",
+      "summary": "Dictado de cursos de programacion basica en vivo a travez de la plataforma zoom, clases dedicada a niños. Trabajando con tecnologias como HTML, CSS, JavaScript, Blender y desarrollo de proyectos (Lean Startup, Kanban, Estudio de mercado etc.).",
       "highlights": [
         "Started the company"
       ]
@@ -78,13 +68,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "institution": "Universidad Tecnologica del Perú",
+    "url": "https://www.utp.edu.pe/",
     "area": "Ingeniero de Software",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2021-01-01",
+    "endDate": "2025-01-01",
+    "score": "16.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
@@ -145,6 +135,13 @@
       ]
     },
     {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "TypeScript", "Angular Framework"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -152,10 +149,31 @@
       ]
     },
     {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "APIs", "Servidor"
+      ]
+    },
+    {
+      "name": "Golang",
+      "level": "Avanzado",
+      "keywords": [
+        "POO", "Backend", "APIs", "Servidor"
+      ]
+    },
+    {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "level": "basic",
+      "keywords": [
+        "Interfaz", "GraphQL", "Backend"
       ]
     },
     {
@@ -173,17 +191,10 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Docker",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Contenedores", "Despliegue", "Redes", "Volumenes", "Crear Imagenes"
       ]
     }
   ],
@@ -194,7 +205,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
   "interests": [{
