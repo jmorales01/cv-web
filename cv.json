@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "José L. Morales",
-    "label": "Full Stack Developer con más de 2 años de experiencia desarrollando sistemas SAS",
+    "label": "Full Stack Developer / Desarrollador de aplicaciones moviles / Analisis de datos / Apacionado por la IA",
     "image": "/me.webp",
     "email": "joseluismoralesvega24@gmail.com",
     "phone": "+51 982310245",
     "url": "https://moraless.me/",
-    "summary": "+2 años desarrollando soluciones con la programación. Actualmente soy desarrollador full-stack. Vivo en Lima, Perú. Estuve en diferentes proyectos: desde acelerar el desarrollo de Empresas del rubro, hasta competiciones de programación. Me gusta estar constantemente creando nuevos retos y mejorando mis habilidades.",
+    "summary": "Desarrollador Full-Stack con más de 2 años de experiencia en soluciones tecnológicas. He trabajado en la creación de startups, participado en hackathons y colaborado con empresas del sector tecnológico. Me motiva asumir desafíos que impulsen la innovación y el desarrollo continuo de mis habilidades.",
     "location": {
       "address": "",
       "postalCode": "15058",
@@ -36,12 +36,21 @@
     {
       "name": "GoFacturas",
       "position": "Desarrollador Full Stack",
-      "url": "http://gofacturas.com/",
+      "url": "http://gofacturas.com",
       "startDate": "2023-04-01",
       "endDate": null,
-      "summary": "Desarrollando modulos de front-end y back-end, para la creacion un sistema de gestión de inventario, facturacion y ventas (serivicios SAS). Trabajando con conceptos como API REST, Logica de Negocio.",
+      "summary": "Desarrollando modulos de front-end y back-end, para la creacion un sistema de gestión de inventario, facturacion y ventas (serivicios SAS). Trabajando con conceptos como API REST, administracion de base de datos, logica de Negocio, etc.",
       "highlights": [
         "Started the company"
+      ],
+      "technologies": [
+        "Angular",
+        "Tailwind",
+        "GraphQL",
+        "Golang",
+        "Docker",
+        "MySQL",
+        "PHP"
       ]
     },
     {
@@ -53,6 +62,13 @@
       "summary": "Dictado de cursos de programacion basica en vivo a travez de la plataforma zoom, clases dedicada a niños. Trabajando con tecnologias como HTML, CSS, JavaScript, Blender y desarrollo de proyectos (Lean Startup, Kanban, Estudio de mercado etc.).",
       "highlights": [
         "Started the company"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Blender",
+        "Lean Startup"
       ]
     }
   ],
@@ -67,18 +83,32 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universidad Tecnologica del Perú",
-    "url": "https://www.utp.edu.pe/",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2021-01-01",
-    "endDate": "2025-01-01",
-    "score": "16.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Universidad Tecnologica del Perú",
+      "url": "https://www.utp.edu.pe/",
+      "area": "Ingeniero de Software",
+      "studyType": "Bachelor",
+      "startDate": "2021-03-01",
+      "endDate": "2025-06-01",
+      "score": "16.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Instituto Idat",
+      "url": "https://www.idat.edu.pe/",
+      "area": "Excel Empresarial / Power BI",
+      "studyType": "Technical",
+      "startDate": "2020-03-01",
+      "endDate": "2020-06-01",
+      "score": "16.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -170,17 +200,24 @@
       ]
     },
     {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "Procedures", "Functions", "Triguers", "Rutines"
+      ]
+    },
+    {
+      "name": "Redis",
+      "level": "Basic",
+      "keywords": [
+        "Bases de Datos", "Procedures", "Functions", "Triguers", "Rutines"
+      ]
+    },
+    {
       "name": "GraphQL",
       "level": "basic",
       "keywords": [
         "Interfaz", "GraphQL", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
@@ -191,10 +228,31 @@
       ]
     },
     {
+      "name": "Kotlin",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
       "name": "Docker",
       "level": "Avanzado",
       "keywords": [
         "Contenedores", "Despliegue", "Redes", "Volumenes", "Crear Imagenes"
+      ]
+    },
+    {
+      "name": "GCP",
+      "level": "Intermediate",
+      "keywords": [
+        "Compute Engine", "Cloud Storage", "Cloud Run", "Cloud SQL", "Cloud Functions"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Framewors", "Apis", "Analisis de datos", "Scraping"
       ]
     }
   ],
@@ -221,66 +279,65 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "CVMatcher",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Plataforma que compara tu CV con miles de ofertas de empleo usando AI",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Scraping",
+        "Integracion de IA",
+        "+500 usuarios"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.cvmatcher.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "Skincheck",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Plataforma que analiza la piel para la detección de enfermades dermatológicas",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Usando IA",
+        "Api GPT-3",
+        "Modelo entrenado en V8",
+        "API rest"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://skincheck-app.vercel.app/",
+      "github": "https://github.com/jmorales01/sckincheck-api"
     },
     {
-      "name": "Codember",
+      "name": "Modulo de despachos",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Gestion de despachos con geolocalización, mapas, rutas para distribuidores, etc.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Google Maps API",
+        "Soket.io",
+        "Real time",
+        "Docker"
       ],
-      "url": "https://codember.dev"
+      "url": "https://gofacturas.com/"
     },
     {
-      "name": "codi.link",
+      "name": "Prision arcana",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Juego multiplataforma de tipo arcade desarrollado con C++ y Unity.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Codigo abierto",
+        "Unity",
+        "C++",
+        "Proyecto universitario"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "github": "https://github.com/jmorales01/prision_arcana"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "App en flutter",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "App de consulta DNI, placa de vehiculo, etc. desarrollado para la municipalidad de VMT.",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "APIs",
+        "Flutter",
+        "Android/IOS",
+        "Proyecto frelance"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/jmorales01/muni_app/releases/tag/apk-release-5",
+      "github": "https://github.com/jmorales01/muni_app"
     }
   ]
 }
