@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "José L. Morales",
-    "label": "Full Stack Developer / Desarrollador de aplicaciones moviles / Analisis de datos / Apacionado por la IA",
+    "label": "Full Stack Developer / Desarrollador de aplicaciones móviles / Análisis de datos / Apasionado por la IA",
     "image": "/me.webp",
     "email": "joseluismoralesvega24@gmail.com",
     "phone": "+51 982310245",
@@ -12,7 +12,7 @@
       "postalCode": "15058",
       "city": "Lima",
       "countryCode": "PE",
-      "region": "Peru"
+      "region": "Perú"
     },
     "profiles": [
       {
@@ -39,7 +39,7 @@
       "url": "http://gofacturas.com",
       "startDate": "2023-04-01",
       "endDate": null,
-      "summary": "Desarrollando modulos de front-end y back-end, para la creacion un sistema de gestión de inventario, facturacion y ventas (serivicios SAS). Trabajando con conceptos como API REST, administracion de base de datos, logica de Negocio, etc.",
+      "summary": "Desarrollando módulos de front-end y back-end, para la creación de un sistema de gestión de inventario, facturación y ventas (servicios SaaS). Trabajando con conceptos como API REST, administración de base de datos, lógica de negocio, etc.",
       "highlights": [
         "Started the company"
       ],
@@ -59,7 +59,7 @@
       "url": "https://www.epicgrouplab.com",
       "startDate": "2022-11-01",
       "endDate": "2023-07-01",
-      "summary": "Dictado de cursos de programacion basica en vivo a travez de la plataforma zoom, clases dedicada a niños. Trabajando con tecnologias como HTML, CSS, JavaScript, Blender y desarrollo de proyectos (Lean Startup, Kanban, Estudio de mercado etc.).",
+      "summary": "Dictado de cursos de programación básica en vivo a través de la plataforma Zoom, clases dedicadas a niños. Trabajando con tecnologías como HTML, CSS, JavaScript, Blender y desarrollo de proyectos (Lean Startup, Kanban, Estudio de mercado etc.).",
       "highlights": [
         "Started the company"
       ],
@@ -284,7 +284,7 @@
       "description": "Plataforma que compara tu CV con miles de ofertas de empleo usando AI",
       "highlights": [
         "Scraping",
-        "Integracion de IA",
+        "Integración de IA",
         "+500 usuarios"
       ],
       "url": "https://www.cvmatcher.app/"
@@ -292,7 +292,7 @@
     {
       "name": "Skincheck",
       "isActive": true,
-      "description": "Plataforma que analiza la piel para la detección de enfermades dermatológicas",
+      "description": "Plataforma que analiza la piel para la detección de enfermedades dermatológicas",
       "highlights": [
         "Usando IA",
         "Api GPT-3",
@@ -308,7 +308,7 @@
       "description": "Gestion de despachos con geolocalización, mapas, rutas para distribuidores, etc.",
       "highlights": [
         "Google Maps API",
-        "Soket.io",
+        "Socket.io",
         "Real time",
         "Docker"
       ],
@@ -319,7 +319,7 @@
       "isActive": true,
       "description": "Juego multiplataforma de tipo arcade desarrollado con C++ y Unity.",
       "highlights": [
-        "Codigo abierto",
+        "Código abierto",
         "Unity",
         "C++",
         "Proyecto universitario"
@@ -329,12 +329,12 @@
     {
       "name": "App en flutter",
       "isActive": true,
-      "description": "App de consulta DNI, placa de vehiculo, etc. desarrollado para la municipalidad de VMT.",
+      "description": "App de consulta DNI, placa de vehículo, etc. desarrollado para la municipalidad de VMT.",
       "highlights": [
         "APIs",
         "Flutter",
         "Android/IOS",
-        "Proyecto frelance"
+        "Proyecto freelance"
       ],
       "url": "https://github.com/jmorales01/muni_app/releases/tag/apk-release-5",
       "github": "https://github.com/jmorales01/muni_app"
